@@ -44,7 +44,8 @@ $ node index.js
 
 ### Settings - Configuration
 
-Ouvrez le fichier settings puis modifier 
+Ouvrez le fichier settings puis modifiez
+Open the file settings and edit
 
 | à modifier | README |
 | ------ | ------ |
