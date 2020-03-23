@@ -40,8 +40,6 @@ $ npm install
 $ node index.js
 ```
 
-
-
 ### Settings - Configuration
 
 Ouvrez le fichier settings puis modifiez
@@ -59,6 +57,15 @@ Open the file settings and edit
 
 ### Screen du settings
 Le lien : https://image.noelshack.com/fichiers/2020/13/1/1584997180-capture.png
+
+### Démarrer le bot - start the bot
+
+
+Open the start file then write:
+Ouvrez le fichier start puis écrivez : 
+```sh
+$ node index.js
+```
 
 
 ### credits
