@@ -22,11 +22,11 @@
 
 
 ### Installation
-Download Nodejs [Node.js](https://nodejs.org/) v4+ to run.
-Téléchargez Nodejs  [Node.js](https://nodejs.org/) version 4 ou + .
+-Download Nodejs [Node.js](https://nodejs.org/) v4+ to run.
+-Téléchargez Nodejs  [Node.js](https://nodejs.org/) version 4 ou + .
 
-Cliquer sur le fichier Install pour installer les fichiers du bots
-Click on Install.bat to install 
+-Cliquer sur le fichier Install pour installer les fichiers du bots
+-Click on Install.bat to install 
 
 ### OR - OU
 
@@ -42,8 +42,8 @@ $ node index.js
 
 ### Settings - Configuration
 
-Ouvrez le fichier settings puis modifiez
-Open the file settings and edit
+-Ouvrez le fichier settings puis modifiez
+-Open the file settings and edit
 
 | à modifier | README |
 | ------ | ------ |
@@ -61,8 +61,8 @@ Le lien : https://image.noelshack.com/fichiers/2020/13/1/1584997180-capture.png
 ### Démarrer le bot - start the bot
 
 
-Open the start file then write:
-Ouvrez le fichier start puis écrivez : 
+-Open the start file then write:
+-Ouvrez le fichier start puis écrivez : 
 ```sh
 $ node index.js
 ```
