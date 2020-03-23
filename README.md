@@ -1,4 +1,3 @@
-# raidbotdiscord
 
 # RAIDBOT DISCORD 
 # BY HAPRAID SOWALKOUD
@@ -59,3 +58,11 @@ Ouvrez le fichier settings puis modifier
 
 ### Screen du settings
 Le lien : https://image.noelshack.com/fichiers/2020/13/1/1584997180-capture.png
+
+
+### credits
+
+http://hapraid.com
+
+SoWalkoud
+
