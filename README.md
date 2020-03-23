@@ -20,16 +20,6 @@
 -    🇫🇷 Commande .help avec quelque commandes d'antiraid (le bot est  sous la peau d'un bot antiraid)
 - 🇺🇸 Command .help with some antiraid commands (the bot is under the skin of an antiraid bot)
 
-# New Features!
-
-
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
 
 
 ### Installation
