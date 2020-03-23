@@ -22,6 +22,10 @@
 
 
 ### Installation
+-Download the zip https://github.com/Walkoud/raidbotdiscord/archive/master.zip
+
+Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zip
+
 -Download Nodejs [Node.js](https://nodejs.org/) v4+ to run.
 -Téléchargez Nodejs  [Node.js](https://nodejs.org/) version 4 ou + .
 
