@@ -2,7 +2,7 @@
 # RAIDBOT DISCORD 
 # BY HAPRAID SOWALKOUD
 
-
+- Video youtube installation and presentation : https://streamable.com/0tdqh
 
 - Bot for raid server discord easely
 - Bot pour raid des serveurs discord
