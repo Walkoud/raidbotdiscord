@@ -1,5 +1,5 @@
 //ce fichier ne sert à rien
-// il est là uniquement pour que github détécte mon répertoire est du javascript
+// il est là uniquement pour que github détécte mon répertoire en javascript
 
 
 
