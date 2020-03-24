@@ -10,7 +10,7 @@
 
   -  🇫🇷 Commande .des pour détruire le serveur
   - 🇺🇸 Command .des for destroy the server
-  - 🇫🇷 Commande .del pour supprimer tout les salons
+  - 🇫🇷 Commande .del pour supprimer tous les salons
   -  🇺🇸 Command .del for delete all channels
 -  🇫🇷 Commande .r pour avoir le role admin (le bot doit avoir les permissions)
 - 🇺🇸 Command .r for have role admin (the bot must be have permissions)
