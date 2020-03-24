@@ -11,6 +11,7 @@
 .gitignore text
 *.md text
 *.bat text
+*.js text
 
 
 
