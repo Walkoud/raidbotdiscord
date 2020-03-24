@@ -1,16 +1,16 @@
-# C'EST UNIQUEMENT POUR LE DÉPOSITAIRE gitattributes.
-# Gérer automatiquement les fins de ligne pour les fichiers détectés sous forme de texte
-# et laissez tous les fichiers détectés comme binaires intacts.
-*  text = auto
+# THIS IS ONLY FOR THE gitattributes REPOSITORY.
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+* text=auto
 
 #
-# Ce qui précède gérera tous les fichiers NON trouvés ci-dessous
+# The above will handle all files NOT found below
 #
-# Ces fichiers sont du texte et doivent être normalisés (Convertir crlf => lf)
-* .gitattributes  texte
- Texte .gitignore
-* Texte .md 
-* Texte .bat
+# These files are text and should be normalized (Convert crlf => lf)
+*.gitattributes text
+.gitignore text
+*.md text
+*.bat text
 
 
 
