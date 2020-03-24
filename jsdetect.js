@@ -1,3 +1,8 @@
+//ce fichier ne sert à rien
+// il est là uniquement pour que github détécte mon répertoire est du javascript
+
+
+
 const { Client, Collection } = require("discord.js");
 const { config } = require("dotenv");
 const fs = require("fs");
