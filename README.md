@@ -1,6 +1,7 @@
 
 # RAIDBOT DISCORD 
 # BY HAPRAID SOWALKOUD
+[![Watch the video](https://i.ytimg.com/an_webp/APaReHR66D8/mqdefault_6s.webp?du=3000&sqp=CNX55_MF&rs=AOn4CLAATFrkr-3NL9p_k6jPRLNrckXxyw)](https://streamable.com/s/0tdqh/nbkpmd)
 
 - Video youtube installation and presentation : https://streamable.com/s/0tdqh/nbkpmd
 
