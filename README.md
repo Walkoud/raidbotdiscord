@@ -1,7 +1,7 @@
 
 # RAIDBOT DISCORD 
 # BY HAPRAID SOWALKOUD
-
+[![Alt text](https://streamable.com/0tdqh)](https://streamable.com/0tdqh)
 - Video youtube installation and presentation : https://streamable.com/0tdqh
 
 - Bot for raid server discord easely
