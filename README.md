@@ -30,6 +30,9 @@ Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zi
 -Download Nodejs [Node.js](https://nodejs.org/) v4+ to run.
 -Téléchargez Nodejs  [Node.js](https://nodejs.org/) version 4 ou + .
 
+-Download Git for Windows [Git](https://git-scm.com/download/win) 
+-Télécharger Git pour Windows [Git](https://git-scm.com/download/win) 
+
 -Cliquer sur le fichier Install pour installer les fichiers du bots
 -Click on Install.bat to install 
 
