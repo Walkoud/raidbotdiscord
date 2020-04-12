@@ -33,14 +33,14 @@ Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zi
 -Download Git for Windows [Git](https://git-scm.com/download/win) 
 -Télécharger Git pour Windows [Git](https://git-scm.com/download/win) 
 
--Cliquer sur le fichier Install pour installer les fichiers du bots
+-Cliquer sur le fichier Install pour installer les fichiers du bots <br/>
 -Click on Install.bat to install 
 
 ### OR - OU
 
 
 
-Install the dependencies and devDependencies and start the server. <br/>
+Install the dependencies and start the server. <br/>
 Installez les dépendances avec ces commandes:
 
 ```sh
