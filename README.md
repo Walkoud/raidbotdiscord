@@ -40,7 +40,7 @@ Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zi
 
 
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies and start the server. <br/>
 Installez les dépendances avec ces commandes:
 
 ```sh
