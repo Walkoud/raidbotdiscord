@@ -69,7 +69,7 @@ Le lien : https://image.noelshack.com/fichiers/2020/13/1/1584997180-capture.png
 ### Démarrer le bot - start the bot
 
 
--Open the start file then write:
+-Open the start file then write:<br/>
 -Ouvrez le fichier start puis écrivez : 
 ```sh
 $ node index.js
