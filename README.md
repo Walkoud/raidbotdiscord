@@ -80,4 +80,4 @@ $ node index.js
 http://hapraid.com
 
 SoWalkoud
-
+https://discord.gg/qCQkdfC
