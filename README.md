@@ -32,12 +32,15 @@ Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zi
 -Download Git for Windows [Git](https://git-scm.com/download/win) <br/>
 -Télécharger Git pour Windows [Git](https://git-scm.com/download/win) 
 
+
+
+
+### Install modules node js
+
 -Cliquer sur le fichier Install pour installer les fichiers du bots <br/>
 -Click on Install.bat to install 
 
 ### OR - OU
-
-
 
 Install the dependencies and start the server. <br/>
 Installez les dépendances avec ces commandes:
@@ -46,6 +49,9 @@ Installez les dépendances avec ces commandes:
 $ npm install
 $ node index.js
 ```
+
+
+
 
 ### Settings - Configuration
 
