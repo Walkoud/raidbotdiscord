@@ -47,6 +47,7 @@ Installez les dépendances avec ces commandes:
 
 ```sh
 $ npm install
+$ npm install discord.js@11
 $ node index.js
 ```
 
