@@ -37,8 +37,8 @@ Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zi
 
 ### Install modules node js
 
--Cliquer sur le fichier Install pour installer les fichiers du bots <br/>
--Click on Install.bat to install 
+-Cliquer sur le fichier install.bat et install2.bat pour installer les fichiers du bots <br/>
+-Click on install.bat et install2.bat to install 
 
 ### OR - OU
 
