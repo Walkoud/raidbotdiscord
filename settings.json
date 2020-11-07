@@ -1,9 +1,9 @@
 {
 
-"token":"Njg1MTM1MTc2NjMxNzEEXerlD6qGPtCrKN1aI",
+"token":"Nzc0NTQ5NzU1ODk.X6ZZrA.DLObePEnHD1iw48WT4MMcfCdAeI",
 
 
-"prefix":".",
+"prefix":"+",
 
 
 "invite":"https://discord.gg/xxxxx",
@@ -19,8 +19,11 @@
 
 "numberchannelmax":"7",
 
+"numbermessagemax":"10",
 
+"numberMPmax":"0",
 
-"numbermessagemax":"10"
-
+"noRaidServerID": "774679325941170212",
+"logschannelid": "7747453666375762129",
+"creditname":"SoW"
 }
