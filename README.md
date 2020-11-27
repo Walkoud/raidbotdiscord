@@ -19,6 +19,10 @@
 -   🇺🇸 Command .exit for leave the bot
 -    🇫🇷 Commande .help avec quelque commandes d'antiraid (le bot est  sous la peau d'un bot antiraid)
 - 🇺🇸 Command .help with some antiraid commands (the bot is under the skin of an antiraid bot)
+-    🇫🇷 Commande .help1212 Pour avoir les commandes raids en dm 
+- 🇺🇸 Command .help1212 To get raids commands in dm
+- 🇺🇸 Command .gay create many roles "gay" in purple and add to everyone (long live the LGBT)
+- 🇫🇷 Commande .gay créer plein de role "gay" en role et ajoute à tout le monde ce role (vive la lgbt)
 
 
 
