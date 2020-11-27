@@ -87,6 +87,9 @@ $ node index.js
 
 
 ### credits
+
+DISCORD JS V11
+
 https://discord.gg/sVFc8m9
 http://hapraid.com
 
