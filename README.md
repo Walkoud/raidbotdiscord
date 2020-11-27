@@ -90,5 +90,5 @@ $ node index.js
 https://discord.gg/sVFc8m9
 http://hapraid.com
 
-SoWalkoud
+SoWalkoud - Walkoud#0001
 https://discord.gg/sVFc8m9
