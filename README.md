@@ -1,7 +1,7 @@
 
 # RAIDBOT DISCORD 
 # BY HAPRAID SOWALKOUD
-[![Watch the video](https://cdn0.iconfinder.com/data/icons/click-linear-outline/300/15197605Untitled-3-512.png)](https://streamable.com/s/0tdqh/nbkpmd)
+[![Watch the video](d)](https://streamable.com/s/0tdqh/nbkpmd)
 
 - Video youtube installation and presentation : https://streamable.com/s/0tdqh/nbkpmd
 
