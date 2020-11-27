@@ -87,8 +87,8 @@ $ node index.js
 
 
 ### credits
-
+https://discord.gg/sVFc8m9
 http://hapraid.com
 
 SoWalkoud
-https://discord.gg/qCQkdfC
+https://discord.gg/sVFc8m9
