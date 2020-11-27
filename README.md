@@ -75,6 +75,7 @@ $ node index.js
 |noRaidServerID | L'ID d'un serveur dans laquelle impossible d'effectuer les commandes - The ID of a server in which unable to perform commands |
 |logschannelid | L'ID du channel dans laquelle sont envoyé les logs des commandes effectué par tout le monde - The ID of the channel in which the logs of orders made by everyone are sent |
 | creditname| Le nom du créateur du bot - The name of the owner bot |
+| helpRAIDcommand| Nom de la commande pour voir les commandes de raid (N'AJOUTEZ PAS LE PREFIX DEDANS) - Command name to see raid commands (DO NOT ADD THE PREFIX IN)  |
 
 
 ### Screen du settings
