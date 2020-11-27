@@ -68,6 +68,10 @@ $ node index.js
 | image | Le lien de l'image de raid - The link of image raid |
 |numberchannelmax | Le nombre maximal de salons à créer - The number max of channels to create |
 |numbermessagemax | Le nombre max de messages à envoyer dans les salons - The number max of send message to all channels |
+|noRaidServerID | L'ID d'un serveur dans laquelle impossible d'effectuer les commandes - The ID of a server in which unable to perform commands |
+|logschannelid | L'ID du channel dans laquelle sont envoyé les logs des commandes effectué par tout le monde - The ID of the channel in which the logs of orders made by everyone are sent |
+| creditname| Le nom du créateur du bot - The name of the owner bot |
+
 
 ### Screen du settings
 Le lien : https://image.noelshack.com/fichiers/2020/13/1/1584997180-capture.png
