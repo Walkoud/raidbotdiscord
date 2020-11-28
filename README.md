@@ -97,6 +97,8 @@ $ node index.js
 
 DISCORD JS V11
 
+discord.link/hap discord.link/haproot
+
 https://discord.gg/sVFc8m9
 http://hapraid.com
 
