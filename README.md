@@ -24,7 +24,7 @@
 - 🇺🇸 Command .gay create many roles "gay" in purple and add to everyone (long live the LGBT)
 - 🇫🇷 Commande .gay créer plein de role "gay" en role et ajoute à tout le monde ce role (vive la lgbt)
 
-
+.invite to invite the bot
 
 ### Installation
 -Download the zip https://github.com/Walkoud/raidbotdiscord/archive/master.zip <br/>
