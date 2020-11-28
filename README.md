@@ -1,4 +1,4 @@
-
+[![](d)](https://i.imgur.com/4M7IWwP.gif)
 # RAIDBOT DISCORD PREMIUM
 # BY HAPRAID SOWALKOUD
 [![Watch the video](d)](https://streamable.com/s/0tdqh/nbkpmd)
