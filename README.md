@@ -1,5 +1,5 @@
 
-# RAIDBOT DISCORD 
+# RAIDBOT DISCORD PREMIUM
 # BY HAPRAID SOWALKOUD
 [![Watch the video](d)](https://streamable.com/s/0tdqh/nbkpmd)
 
@@ -13,6 +13,8 @@
   - 🇺🇸 Command .des for destroy the server
   - 🇫🇷 Commande .del pour supprimer tous les salons
   -  🇺🇸 Command .del for delete all channels
+  - 🇺🇸 Command .red with a custom link server and name of channel
+- 🇫🇷 Commande .red détrui tout avec votre lien discord nom de salon
 -  🇫🇷 Commande .r pour avoir le role admin (le bot doit avoir les permissions)
 - 🇺🇸 Command .r for have role admin (the bot must be have permissions)
 -    🇫🇷 Commande .exit pour faire quitter le bot du serveur
