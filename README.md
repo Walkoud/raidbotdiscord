@@ -102,5 +102,5 @@ discord.link/hap discord.link/haproot
 https://discord.gg/sVFc8m9
 http://hapraid.com
 
-SoWalkoud - Walkoud#0001
+SoWalkoud - Walkoud#0001 - Walkoud#0805
 https://discord.gg/sVFc8m9
