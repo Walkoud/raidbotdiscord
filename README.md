@@ -26,6 +26,11 @@
 - 🇺🇸 Command .gay create many roles "gay" in purple and add to everyone (long live the LGBT)
 - 🇫🇷 Commande .gay créer plein de role "gay" en role et ajoute à tout le monde ce role (vive la lgbt)
 
+####NEW
+- Command .list to see all servers with id
+- Command .xinvite to get a invite of server id
+
+
 .invite to invite the bot
 
 ### Installation
