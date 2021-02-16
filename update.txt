@@ -1,3 +1,7 @@
+N'OUBLIEZ PAS DE METTRE A JOUR LE SETTINGS.JSON
+DON'T FORGET TO UPDATE SETTINGS.JSON
+
+
 New commands:
 
 -xunban You can be unban by specifying the server ID
