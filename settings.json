@@ -1,12 +1,12 @@
 {
 
-"token":"Nzc0NTQ5NzU1ODk.X6ZZrA.DLObePEnHD1iw48WT4MMcfCdAeI",
+"token":"ODEwNDk3NjY1NzKujghxxxxxxxxxxxxxxxxxjtjfjfWxY4",
 
 
 "prefix":".",
 
 
-"invite":"https://discord.gg/xxxxx",
+"invite":"https://discord.gg/xxxxfx",
 
 
 "nameserver":"NAME SERVER",
@@ -23,8 +23,10 @@
 
 "numberMPmax":"0",
 "noRaidServerID": "774679325941170212",
-"logschannelid": "7747453666375762129",
+"logschannelid": "810504737119797258",
 "logschannelid2": "none",
 "creditname":"SoW",
-"helpRAIDcommand":"help1212"
+"helpRAIDcommand":"help1212",
+
+"statusbot": "v$version$ | $servers$ guilds, $members$ members, $prefix$help"
 }
