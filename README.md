@@ -3,6 +3,7 @@
 # BY HAPRAID SOWALKOUD
 
 ![](https://img.shields.io/github/watchers/Walkoud/raidbotdiscord?logoColor=purple&style=social) ![](https://img.shields.io/github/last-commit/Walkoud/raidbotdiscord) 
+![https://discord.link/hap](https://img.shields.io/discord/736923536475684974?label=Join%20HAP&logo=discord&style=flat-square)
 
 [![Watch the video](d)](https://streamable.com/s/0tdqh/nbkpmd)
 
