@@ -2,7 +2,7 @@
 # RAIDBOT DISCORD PREMIUM
 # BY HAPRAID SOWALKOUD
 
-![](https://img.shields.io/github/watchers/Walkoud/raidbotdiscord?logoColor=purple&style=social)
+![](https://img.shields.io/github/watchers/Walkoud/raidbotdiscord?logoColor=purple&style=social) ![](https://img.shields.io/github/last-commit/Walkoud/raidbotdiscord) 
 
 [![Watch the video](d)](https://streamable.com/s/0tdqh/nbkpmd)
 
