@@ -2,8 +2,13 @@
 # RAIDBOT DISCORD PREMIUM
 # BY HAPRAID SOWALKOUD
 
-![](https://img.shields.io/github/watchers/Walkoud/raidbotdiscord?logoColor=purple&style=social) ![](https://img.shields.io/github/last-commit/Walkoud/raidbotdiscord) 
-![https://discord.link/hap](https://img.shields.io/discord/736923536475684974?label=Join%20HAP&logo=discord&style=flat-square)
+
+<p align="center">
+<a href="https://discord.link/hap"><img src="https://img.shields.io/github/watchers/Walkoud/raidbotdiscord?logoColor=purple&style=social"></a>
+  <a href="https://discord.link/hap"><img src="https://img.shields.io/github/last-commit/Walkoud/raidbotdiscord"></a>
+<a href="https://discord.link/hap"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
+
+</p>
 
 [![Watch the video](d)](https://streamable.com/s/0tdqh/nbkpmd)
 
