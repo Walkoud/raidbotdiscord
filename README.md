@@ -1,6 +1,9 @@
 [![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
 # RAIDBOT DISCORD PREMIUM
 # BY HAPRAID SOWALKOUD
+
+![](https://img.shields.io/github/watchers/Walkoud/raidbotdiscord?logoColor=purple&style=social)
+
 [![Watch the video](d)](https://streamable.com/s/0tdqh/nbkpmd)
 
 - Video youtube installation and presentation : https://streamable.com/s/0tdqh/nbkpmd
