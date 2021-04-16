@@ -1,19 +1,2 @@
-N'OUBLIEZ PAS DE METTRE A JOUR LE SETTINGS.JSON
-DON'T FORGET TO UPDATE SETTINGS.JSON
+FIXED discord.js v11
 
-
-New commands:
-
--xunban You can be unban by specifying the server ID
--xinvite To get a invite of server id
--list To see all servers with id
-
-
-Settings update:
-
--You can put 2 logschannelid
--You can change the status of the bot: We have put an example for you in the settings.
-
-
-
-In case of bug please mp Walkoud #1981
