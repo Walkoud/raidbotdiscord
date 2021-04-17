@@ -1,1 +1,1 @@
-npm i discord.js@11
+npm i discord.js-v11-stable
