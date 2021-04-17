@@ -1,13 +1,13 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "RAID BOT",
+  "description": "A raid bot discord",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js-v11-stable": "^11.5.1",
-    "request": "2.81.0",
+    "discord.js-v11-stable": "^1.0.2",
+    "request": "2.81.0"
   }
 }
