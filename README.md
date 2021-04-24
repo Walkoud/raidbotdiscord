@@ -16,6 +16,9 @@
 
 - Bot for raid server discord easely
 - Bot pour raid des serveurs discord
+
+**Spam webhook all channel, create massive channel, delete all channel, create massive role, etc**
+
 ### Commandes (Commands)
 
   -  🇫🇷 Commande .des pour détruire le serveur
