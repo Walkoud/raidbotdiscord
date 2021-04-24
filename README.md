@@ -119,5 +119,8 @@ discord.link/hap discord.link/haproot
 https://discord.gg/sVFc8m9
 http://hapraid.com
 
-SoWalkoud - Walkoud#0001 - Walkoud#0805(banned) - Walkoud#1981
+Discord Tag : **Walkoud#1981**
+
+Other discord tag: SoWalkoud - Walkoud#0001 - Walkoud#0805(banned)
+
 https://discord.gg/sVFc8m9
