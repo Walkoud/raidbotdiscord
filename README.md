@@ -114,7 +114,9 @@ $ node index.js
 
 DISCORD JS V11
 
-discord.link/hap discord.link/haproot
+discord.link/hap
+discord.link/hapraid
+discord.link/haproot(not working)
 
 https://discord.gg/sVFc8m9
 http://hapraid.com(expired)
