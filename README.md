@@ -109,6 +109,11 @@ Le lien : https://image.noelshack.com/fichiers/2020/13/1/1584997180-capture.png
 $ node index.js
 ```
 
+### Activate intent
+
+- Dont forget to open intents ! 
+![image](https://user-images.githubusercontent.com/38588921/174448017-f0bbefb4-de8f-4010-93ce-55f2eb58fe6c.png)
+
 
 ### credits
 
