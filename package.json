@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "discord.js": "^13",
+    "discord.js": "^13.8.0",
     "request": "2.81.0"
   }
 }
