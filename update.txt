@@ -1,1 +1,1 @@
-New version discord.js 13 ! good raid bro
+Fixed ban, des
