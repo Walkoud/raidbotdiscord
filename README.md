@@ -117,7 +117,7 @@ $ node index.js
 
 ### credits
 
-DISCORD JS V11
+DISCORD JS V13
 
 discord.link/hap <br/>
 discord.link/hapraid <br/>
