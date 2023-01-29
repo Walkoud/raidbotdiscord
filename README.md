@@ -115,7 +115,7 @@ $ node index.js
 ![image](https://user-images.githubusercontent.com/38588921/174448017-f0bbefb4-de8f-4010-93ce-55f2eb58fe6c.png)
 
 
-### credits
+## credits
 
 DISCORD JS V13
 <br>
