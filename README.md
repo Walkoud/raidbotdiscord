@@ -118,6 +118,8 @@ $ node index.js
 ### credits
 
 DISCORD JS V13
+<br>
+https://hapraid.carrd.co/ <br>
 
 discord.link/hap <br/>
 discord.link/hapraid <br/>
