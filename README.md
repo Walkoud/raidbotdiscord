@@ -1,4 +1,4 @@
-[![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
+[![aaa](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUzYjk2NWE3NzZhZmRlNmYwMjk0OTY1OGIxNThiZmEzZWQwNGNjNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIj8cbzWYKnE9ul3ab/giphy.gif)](https://discord.link/hap)
 # RAIDBOT DISCORD PREMIUM
 # BY HAPRAID SOWALKOUD
 
