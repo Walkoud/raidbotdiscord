@@ -1,4 +1,4 @@
-[![aaa](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUzYjk2NWE3NzZhZmRlNmYwMjk0OTY1OGIxNThiZmEzZWQwNGNjNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIj8cbzWYKnE9ul3ab/giphy.gif)](https://discord.link/hap)
+[![rainbow gif bar](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUzYjk2NWE3NzZhZmRlNmYwMjk0OTY1OGIxNThiZmEzZWQwNGNjNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIj8cbzWYKnE9ul3ab/giphy.gif)](https://discord.link/hap)
 
 # RAIDBOT DISCORD PREMIUM
 
@@ -92,7 +92,7 @@ $ node index.js
 ### Activate intent
 
 - Dont forget to open intents !
-  ![image](https://user-images.githubusercontent.com/38588921/174448017-f0bbefb4-de8f-4010-93ce-55f2eb58fe6c.png)
+  ![Image that illustrates how to set the intents.](https://user-images.githubusercontent.com/38588921/174448017-f0bbefb4-de8f-4010-93ce-55f2eb58fe6c.png)
 
 ## credits
 
