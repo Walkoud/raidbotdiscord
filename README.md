@@ -119,6 +119,7 @@ $ node index.js
 
 DISCORD JS V13
 <br>
+https://walkoud.github.com
 https://hapraid.carrd.co/ <br>
 
 discord.link/hap <br/>
@@ -128,7 +129,7 @@ discord.link/haproot(not working) <br/>
 https://discord.gg/sVFc8m9
 http://hapraid.com(expired)
 
-Discord Tag : **Walkoud#1981** <br/>
+Discord Tag : **walkoud** <br/>
 <br/>
 Other discord tag: SoWalkoud - Walkoud#0001 - Walkoud#0805(banned) <br/>
 
