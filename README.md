@@ -119,7 +119,7 @@ $ node index.js
 
 DISCORD JS V13
 <br>
-https://walkoud.github.com
+https://walkoud.github.io
 https://hapraid.carrd.co/ <br>
 
 discord.link/hap <br/>
