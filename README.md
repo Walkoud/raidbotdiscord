@@ -37,6 +37,7 @@
 - 🇺🇸 Command .help1212 To get raids commands in dm
 - 🇺🇸 Command .gay create many roles "gay" in purple and add to everyone (long live the LGBT)
 - 🇫🇷 Commande .gay créer plein de role "gay" en role et ajoute à tout le monde ce role (vive la lgbt)
+- 🇺🇸 Command .ban ban all members
 
 ####NEW
 - Command .list to see all servers with id
