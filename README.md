@@ -39,7 +39,7 @@
 - 🇫🇷 Commande .gay créer plein de role "gay" en role et ajoute à tout le monde ce role (vive la lgbt)
 - 🇺🇸 Command .ban ban all members
 
-####NEW
+#### NEW
 - Command .list to see all servers with id
 - Command .xinvite to get a invite of server id
 
